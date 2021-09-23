@@ -2,3 +2,6 @@ Text based chat
 video chat
 chat support
 video call support
+emoji support
+dark theme
+chat group support
